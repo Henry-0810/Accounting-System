@@ -6,5 +6,8 @@ HTML, CSS, JavaScript (jQuery), AJAX, PHP
 
 <picture>
   <img alt="My system UI" src="https://i.imgur.com/srnpvcc.jpg">
+</picture>
+
+<picture>
   <img alt="My system UI" src="https://i.imgur.com/GHkopiz.jpg">
 </picture>
